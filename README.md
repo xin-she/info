@@ -20,7 +20,7 @@ He has authored/edited more than 50 books and has published more than 400 peer-r
   <sumary>
   If you are interested in any of my publications or wish to discuss research collaboration, please feel freel to email 
     
-     x.yang (at) mdx.ac.uk  
+    x.yang (at) mdx.ac.uk  
   </sumary>
 </details>
 
