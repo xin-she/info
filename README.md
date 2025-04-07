@@ -17,6 +17,7 @@ numerical methods, data mining, and simulation tools.  He was the IEEE Computati
 
 He has authored/edited more than 50 books and has published more than 400 peer-reviewed research papers with more than 96,000 citations, a full list of his publications are available at [Google scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ) and at [Web of Science](https://www.webofscience.com/wos/author/record/I-5662-2019). He has been on the prestigious list of most influential researchers or [highly-cited researchers](https://www.webofscience.com/wos/author/record/I-5662-2019)  (i.e., top 0.1% Scientists, Web of Science) for ten consecutive years since 2016. 
 
+---
 ##### Show email address
 <details>
   <sumary>
@@ -26,6 +27,7 @@ He has authored/edited more than 50 books and has published more than 400 peer-r
   </sumary>
 </details>
 
+---
 ### Full list of my publications can be found at  [Google Scholar](https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ),  [Research Gate](https://www.researchgate.net/profile/Xin-She-Yang) or [ORCID](https://orcid.org/0000-0001-8231-5556)
 
 ### My recent books:
