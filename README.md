@@ -1,6 +1,6 @@
 ![web](/mylogo.png)
 # Dr Xin-She Yang's Webpage
-
+---
 Xin-She Yang is [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)) in Modelling and Simulation as well as Optimization at Middlesex University London, with more than 25 years' experience in teaching and research. He was a Senior Research Scientist at Mathematics and Scientific Computing Division of UK's National Physical Laboratory. 
 He got his DPhil in Applied Mathematics from Mathematical Institute, University of Oxford in 1998. 
 
